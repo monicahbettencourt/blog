@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Monica H. Bettencourt</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Monica H. Bettencourt</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Sep 2025 08:51:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From 3000 to Zero: My Email Inbox Cleanup</title>
+      <link>http://localhost:1313/posts/from-3000-to-zero/</link>
+      <pubDate>Fri, 19 Sep 2025 08:51:24 +0100</pubDate>
+      <guid>http://localhost:1313/posts/from-3000-to-zero/</guid>
+      <description>&lt;p&gt;Every time I&amp;rsquo;d open my email app, I would feel a pinch of despair. With over 3000 messages, I felt discouraged about how I could solve this. Processing a few messages at a time wasn&amp;rsquo;t working.&lt;/p&gt;
+&lt;p&gt;Inspired by Mischa van den Burg&amp;rsquo;s video &lt;a href=&#34;https://www.youtube.com/watch?v=TDBMyNBUWKA&amp;amp;list=PL_JVnPgp2IReOqONl_74q9XF1nMoRuv8A&amp;amp;index=8&#34;&gt;The Importance of Digital Housekeeping&lt;/a&gt;, at the end of July I decided to challenge myself and clean my email inbox in one sitting.&lt;/p&gt;
+&lt;h2 id=&#34;problems&#34;&gt;Problems&lt;/h2&gt;
+&lt;p&gt;I had two major problems caused by a poorly managed email system:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Hardware Experiment</title>
+      <link>http://localhost:1313/posts/first-hardware-experiment/</link>
+      <pubDate>Thu, 18 Sep 2025 12:37:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first-hardware-experiment/</guid>
+      <description>&lt;p&gt;I always had an interest in finding out how things worked to really understand them. So, when I decided to start this learning journey it didn&amp;rsquo;t make sense for me to begin at the software layer: I sought to learn about how computers are built, their different components and their functions.&lt;/p&gt;
+&lt;p&gt;After a while, I felt the need to see and hold these parts in my hands, because learning the theory is important, but putting that knowledge into practice consolidates what you&amp;rsquo;ve learned.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>&lt;p&gt;My name is Monica Horta Bettencourt, a DevOps Enthusiast currently working as an OR Nurse in the Lisbon District.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been surrounded by technology since childhood, thanks to my relatives&amp;rsquo; interests and occupations. While working in healthcare, I&amp;rsquo;ve been able to follow the development of information technology systems in the field, remaining curious and eager to learn how to make the most out of them.&lt;/p&gt;
+&lt;p&gt;For quite a while, I&amp;rsquo;d been searching for something new and practical to learn, experiment with, write about, and share with anyone interested in it.
+And then a Raspberry Pi entered the scene. I found that these small devices were transmitting live data from medical equipment to a software application.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

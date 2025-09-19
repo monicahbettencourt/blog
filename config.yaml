@@ -1,0 +1,142 @@
+baseURL: https://mydomain.com/
+languageCode: en-us
+title: Monica H. Bettencourt
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true # to include content with a publish date set in the future
+buildExpired: true # to include content past it's ex+iry date during the site build process
+pygmentsUseClasses: true # to control how synthax highlighting is applied to code blocs
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Monica H. Bettencourt
+  description: "Writing about the things that I learn in my journey into DevOps: Linux, Scripting, Containers, Container Orchestration, Cloud Platforms"
+  keywords: [Blog, Portfolio, CV, DevOps, Linux]
+  author: Monica H. Bettencourt
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false # to control whether an RSS icon is displayed on section, term and list pages
+  UseHugoToc: false
+  disableSpecial1stPost: true # to control the special visual apearence of the first post on the homepage
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+
+    favicon: "icons/favicon.ico"
+    favicon16x16:  "icons/favicon-16x16.png"
+    favicon32x32:  "icons/favicon-32x32.png"
+    apple_touch_icon:  "icons/apple-touch-icon.png"
+    
+  label:
+    text: "Monica H. Bettencourt"
+    # icon: "icons/apple-touch-icon.png" # to add an icon before the text
+    # iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: "My Learning Journey"
+    subtitle: "A place to share what I'm learning"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Blog
+        url: arquives
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  # homeInfoParams:
+  #   Title: "My Learning Journey"
+  #   Content: >
+  #     Welcome to my website. I'm Monica, an OR Nurse and DevOps Entusiast based in the Lisbon District.
+
+  #   Socials:
+      
+  # socialIcons:
+  #  - name: linkedin
+  #    url: "https://www.linkedin.com/in/monicahbettencourt"
+  #  - name: x
+  #    url: "https://x.com/m_hbettencourt"
+  #  - name: github
+  #    url: "https://github.com/monicahbettencourt"
+
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"
+    
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: About
+      name: "About"
+      url: /aboutme/
+      weight: 10
+    - identifier: Index
+      name: "Index"
+      url: /archives/
+      weight: 20  
+    - identifier: Tags
+      name: "Tags"
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
