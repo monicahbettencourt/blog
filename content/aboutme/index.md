@@ -19,6 +19,6 @@ As I revel in solving problems and streamlining processes, this is the perfect f
 
 Building this website with the Hugo framework was my first real project. It was both challenging and rewarding, since I had never worked on something like this before.
 
-In here, I'll share what I'm learning about and the processes involved.
+In here, I'll share what I'm learning about and the processes involved. As an avid reader, I'll also write about the books that have influenced this learning journey.
 
 You can find the source code of this website at [github.com/monicahbettencourt/blog](https://github.com/monicahbettencourt/blog).
