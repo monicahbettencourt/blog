@@ -24,7 +24,7 @@ Reassembling every component was harder than I expected. Attaching all the cable
 
 When I was almost done screwing the HDD to its rack, I dropped a screw into a narrow crevice of the case. As I assessed the problem at hand, shaking the case to get it out wasn't an option since it was stuck in place and I risked damaging the components. So, I grabbed a stylus from the screwdriver set and adhesive tape, and after a few unsuccessful attempts, I managed to fish it out. What a relief!
 
-![Lost screw caught with stylus and adhesive tape](screw-stylus.jpg "Lost screw")
+![Lost screw caught with stylus and adhesive tape](lost-screw-stylus.jpg "Lost screw")
 
 As I pressed the power button, I wasn't sure the computer would start. But it did, and I was both relieved and overjoyed to accomplish this task. 
 
