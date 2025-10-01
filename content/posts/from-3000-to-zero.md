@@ -13,7 +13,7 @@ Inspired by Mischa van den Burg's video [The Importance of Digital Housekeeping]
 I had three major problems caused by a poorly managed email system:
 - I was missing important incoming messages;
 - The sheer volume of inbox messages was visually distracting;
-- Sometimes this distraction made it difficult to follow my focused studying schedule. 
+- Sometimes this distraction made it difficult for me to follow my focused studying schedule. 
 
 ## Planning Stage
 
@@ -38,7 +38,7 @@ I created folders as I sorted the messages. Here are some examples:
 - Learning:
 - Family;
 - Finances;
-	- Bank
+	- Bank;
 - Orders;
 	- Pending orders;
 - Reading;
