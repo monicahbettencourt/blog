@@ -5,9 +5,9 @@ title: Home
 
 Welcome to my website. I'm Monica, a DevOps Enthusiast currently working as an OR Nurse in the Lisbon District.
 
-Here I'll share about the technical topics I'm learning and experimenting with such as Linux, Scripting, Containers, Container Orchestration and Cloud Platforms.
+Here I share notes and articles about the technical subjects I'm learning and experimenting with, such as Linux, scripting, containers, container orchestration and cloud platforms.
 
-Since I am very interested in productivity and efficiency, you will also find posts about note taking, learning and focused work.
+Because I'm very interested in productivity and efficiency, you will also find posts about note-taking, learning strategies, and focused work.
 
 
 # Socials
