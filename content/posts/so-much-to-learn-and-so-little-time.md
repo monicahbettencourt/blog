@@ -50,6 +50,8 @@ Instead of starting my study sessions at 17:00h after a workday, in early Januar
 
 I started gradually waking up earlier, going from 06:30h, until I ended up at 04:30h. This way I can study for 2 hours before leaving for work.
 
+![](images/what-time-is-it-now.png)
+
 Even though I'm an "early bird", in the beginning it wasn't all that pleasant. 
 
 But as I started tracking time and seeing the results, it became a challenge to improve on the previous day's result. I was, essentially, gamifying this endeavor. Plus, your body starts to naturally adapt to this new rhythm. 
