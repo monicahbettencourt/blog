@@ -15,7 +15,7 @@ After experimenting with Hardware and Operating Systems' installations, I'm curr
 
 As I revel in solving problems and streamlining processes, this is the perfect field to put that into action: I'm able to learn by experimenting and building in my home lab, troubleshooting issues, and breaking things to then rebuild in a better way. 
 
-# About This Website
+## About This Website
 
 Building this website with the Hugo framework was my first project. It was both challenging and rewarding, since I had never worked on something like this before.
 
