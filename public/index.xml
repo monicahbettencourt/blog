@@ -51,10 +51,10 @@
       <link>http://localhost:1313/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/aboutme/</guid>
-      <description>&lt;p&gt;My name is Monica Horta Bettencourt, a DevOps Enthusiast currently working as an OR Nurse in the Lisbon District.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been surrounded by technology since childhood, thanks to my relatives&amp;rsquo; interests and occupations. While working in healthcare, I&amp;rsquo;ve been able to follow the development of information technology systems in the field, remaining curious and eager to learn how to make the most out of them.&lt;/p&gt;
-&lt;p&gt;For quite a while, I&amp;rsquo;d been searching for something new and practical to learn, experiment with, write about, and share with anyone interested in it.
-And then a Raspberry Pi entered the scene. I found that these small devices were transmitting live data from medical equipment to a software application.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My name is Monica Horta Bettencourt, a technology enthusiast pivoting to DevOps. Currently, I work as an Operating Room Nurse in the Lisbon District.&lt;/p&gt;
+&lt;p&gt;I’ve been surrounded by technology since childhood, thanks to my relatives’ interests and occupations.&lt;/p&gt;
+&lt;p&gt;While working in healthcare, I&amp;rsquo;ve followed the development of information technology systems in the field, and began noticing the challenges in usability and interoperability between different software products.&lt;/p&gt;
+&lt;p&gt;Then a Raspberry Pi entered the scene. I found that these small devices were transmitting live data from medical equipment to a newly implemented application in the OR.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
