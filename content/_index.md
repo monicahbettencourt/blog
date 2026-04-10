@@ -3,11 +3,13 @@ title: Home
 ---
 # Climbing Mountains Into the Cloud
 
-Welcome to my website. I'm Monica, a DevOps Enthusiast currently working as an OR Nurse in the Lisbon District.
+Welcome to my website. I’m Monica, a technology enthusiast pivoting to DevOps. Currently, I work as an Operating Room Nurse in the Lisbon District.
 
-Here I share notes and articles about the technical subjects I'm learning and experimenting with, such as Linux, scripting, containers, container orchestration and cloud platforms.
+Here I share notes and articles about the technical subjects I’m studying, through hands-on experimentation.
 
-Because I'm very interested in productivity and efficiency, you will also find posts about note-taking, learning strategies, and focused work.
+I'm currently focused on Linux systems administration, progressing towards automation, containers and orchestration, CI/CD pipelines, infrastructure as code, and cloud platforms.
+
+As I’m interested in productivity and efficiency, you will also find posts about note-taking, learning strategies, and deep work practices.
 
 
 # Socials
