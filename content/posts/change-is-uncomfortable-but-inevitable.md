@@ -2,6 +2,7 @@
 date: '2026-07-05T21:34:54+01:00'
 draft: false
 title: 'Change Is Uncomfortable, But Inevitable'
+tags: ["career"]
 ---
 
 All around us, change happens at every hour, every minute, every second.
