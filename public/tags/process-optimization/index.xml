@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Process Optimization on Monica H. Bettencourt</title>
-    <link>https://www.monicahbettencourt.com/tags/process-optimization/</link>
+    <link>http://localhost:1313/tags/process-optimization/</link>
     <description>Recent content in Process Optimization on Monica H. Bettencourt</description>
     <generator>Hugo -- 0.163.3</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jun 2026 12:22:56 +0100</lastBuildDate>
-    <atom:link href="https://www.monicahbettencourt.com/tags/process-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/process-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bridging Healthcare Process Optimization and DevOps</title>
-      <link>https://www.monicahbettencourt.com/posts/bridging-healthcare-process-optimization-and-devops/</link>
+      <link>http://localhost:1313/posts/bridging-healthcare-process-optimization-and-devops/</link>
       <pubDate>Thu, 25 Jun 2026 12:22:56 +0100</pubDate>
-      <guid>https://www.monicahbettencourt.com/posts/bridging-healthcare-process-optimization-and-devops/</guid>
+      <guid>http://localhost:1313/posts/bridging-healthcare-process-optimization-and-devops/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always been interested in technology. And solving problems.&lt;/p&gt;
 &lt;p&gt;In recent years, with the gradual adoption of software applications in healthcare, I became interested in finding out why it was so hard for applications to share data and communicate.&lt;/p&gt;
 &lt;p&gt;That interest peaked one morning when I saw a technician installing a Raspberry Pi on top of a ventilator to collect and send data to an operating room records application.&lt;/p&gt;

@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Climbing Mountains Into the Cloud
+# Climbing Mountains Into The Cloud
 
 Welcome to my website. I’m Monica, a technology enthusiast pivoting to DevOps. Currently, I work as an Operating Room Nurse in the Lisbon District.
 

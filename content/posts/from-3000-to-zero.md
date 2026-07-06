@@ -1,5 +1,5 @@
 ---
-title: 'From 3000 to Zero: My Email Inbox Cleanup'
+title: 'From 3000 To Zero: My Email Inbox Cleanup'
 date: '2025-09-19T08:51:24+01:00'
 draft: false
 tags: ["productivity"]
@@ -55,7 +55,7 @@ Nowadays, when I receive a message, I do my best to immediately process it: Do I
 
 I clear the trash folder right away. By doing this, I make sure that I'm mindful about the evaluation process.
 
-I don't use the arquive option. Every message has its proper place: it either goes into a folder or it is deleted.
+I don't use the archive option. Every message has its proper place: it either goes into a folder or it is deleted.
 
 ### Result
 
