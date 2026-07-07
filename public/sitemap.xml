@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/change-is-uncomfortable-but-inevitable/</loc>
-    <lastmod>2026-07-05T21:34:54+01:00</lastmod>
+    <loc>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</loc>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-05T21:34:54+01:00</lastmod>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ubuntu/</loc>
+    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2026-07-05T21:34:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/change-is-uncomfortable-but-inevitable/</loc>
     <lastmod>2026-07-05T21:34:54+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/bridging-healthcare-process-optimization-and-devops/</loc>
@@ -17,13 +35,7 @@
     <loc>http://localhost:1313/tags/efficiency/</loc>
     <lastmod>2026-06-25T12:22:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
-    <lastmod>2026-06-25T12:22:56+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/process-optimization/</loc>
-    <lastmod>2026-06-25T12:22:56+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-25T12:22:56+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/experiment/</loc>

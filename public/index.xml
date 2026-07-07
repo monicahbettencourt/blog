@@ -4,10 +4,20 @@
     <title>Home on Monica H. Bettencourt</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on Monica H. Bettencourt</description>
-    <generator>Hugo -- 0.163.3</generator>
+    <generator>Hugo -- 0.164.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 21:34:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:06:09 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Resistance To Full Adoption - My Linux Journey So Far (Part 1/2)</title>
+      <link>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</link>
+      <pubDate>Tue, 07 Jul 2026 14:06:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</guid>
+      <description>&lt;p&gt;The first time I was told I should use Linux, I didn&amp;rsquo;t know what it was, really. &amp;ldquo;Another operating system? OK, but why should I switch now?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;My impression was that Linux was a single operating system (OS), as any other mainstream OS, and that everyone&amp;rsquo;d be using the same version.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t see a good reason to change from what I was using, my routines, and habits.&lt;/p&gt;
+&lt;p&gt;Now that I look back, I think I feared having to learn something new from scratch. And also, of becoming different, by switching into something the majority of people I knew had never heard about.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Change Is Uncomfortable, But Inevitable</title>
       <link>http://localhost:1313/posts/change-is-uncomfortable-but-inevitable/</link>
