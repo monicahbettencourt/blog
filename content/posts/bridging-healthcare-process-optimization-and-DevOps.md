@@ -1,7 +1,7 @@
 ---
 date: '2026-06-25T12:22:56+01:00'
 draft: false
-title: 'Bridging Healthcare Process Optimization and DevOps'
+title: 'Bridging Healthcare Process Optimization And DevOps'
 tags: ["process optimization", "efficiency", "learning"]
 ---
 I've always been interested in technology. And solving problems.  
