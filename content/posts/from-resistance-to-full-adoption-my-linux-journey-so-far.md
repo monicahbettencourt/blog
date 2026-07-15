@@ -1,7 +1,7 @@
 ---
 date: '2026-07-07T14:06:09+01:00'
 draft: false 
-title: 'From Resistance To Full Adoption - My Linux Journey So Far (Part 1/2)'
+title: 'From Resistance To Full Adoption - My Linux Journey So Far'
 tags: ["Linux", "Ubuntu", "learning"]
 ---
 
