@@ -8,7 +8,7 @@ I've always been interested in technology. And solving problems.
   
 In recent years, with the gradual adoption of software applications in healthcare, I became interested in finding out why it was so hard for applications to share data and communicate.
 
-That interest peaked one morning when I saw a technician installing a Raspberry Pi on top of a ventilator to collect and send data to an operating room records application.
+That interest piqued one morning when I saw a technician installing a Raspberry Pi on top of a ventilator to collect and send data to an operating room records application.
 
 One month later, in March 2025, I attended a practical course focused on process digitization in healthcare, by Nova School of Science & Technology, and promoted by my employer.
 
