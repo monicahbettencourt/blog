@@ -6,10 +6,19 @@
     <description>Recent content in Home on Monica H. Bettencourt</description>
     <generator>Hugo -- 0.164.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 14:06:09 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:35:15 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>From Resistance To Full Adoption - My Linux Journey So Far (Part 1/2)</title>
+      <title>Becoming a Beginner, Again</title>
+      <link>http://localhost:1313/posts/becoming-a-beginner-again/</link>
+      <pubDate>Sun, 19 Jul 2026 17:35:15 +0100</pubDate>
+      <guid>http://localhost:1313/posts/becoming-a-beginner-again/</guid>
+      <description>&lt;p&gt;When I started working as an Operating Room Nurse, I felt like a fish out of water. It looked like I was a complete beginner again.&lt;/p&gt;
+&lt;p&gt;After spending 3.5 years working at a small urgent care department in a different location, this seemed like the right challenge to pursue next.&lt;/p&gt;
+&lt;p&gt;But the sheer amount of things to learn &amp;ldquo;on the job&amp;rdquo; from day one, plus the high-stakes environment I was now a part of, made me think &amp;ldquo;What did I get myself into?&amp;rdquo; many times.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Resistance To Full Adoption - My Linux Journey So Far</title>
       <link>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</link>
       <pubDate>Tue, 07 Jul 2026 14:06:09 +0100</pubDate>
       <guid>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</guid>
@@ -29,13 +38,13 @@
 &lt;p&gt;When he took the red pill from Morpheus, Neo chose to leave the Matrix and live in the real world, as harsh as it was.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bridging Healthcare Process Optimization and DevOps</title>
+      <title>Bridging Healthcare Process Optimization And DevOps</title>
       <link>http://localhost:1313/posts/bridging-healthcare-process-optimization-and-devops/</link>
       <pubDate>Thu, 25 Jun 2026 12:22:56 +0100</pubDate>
       <guid>http://localhost:1313/posts/bridging-healthcare-process-optimization-and-devops/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always been interested in technology. And solving problems.&lt;/p&gt;
 &lt;p&gt;In recent years, with the gradual adoption of software applications in healthcare, I became interested in finding out why it was so hard for applications to share data and communicate.&lt;/p&gt;
-&lt;p&gt;That interest peaked one morning when I saw a technician installing a Raspberry Pi on top of a ventilator to collect and send data to an operating room records application.&lt;/p&gt;
+&lt;p&gt;That interest piqued one morning when I saw a technician installing a Raspberry Pi on top of a ventilator to collect and send data to an operating room records application.&lt;/p&gt;
 &lt;p&gt;One month later, in March 2025, I attended a practical course focused on process digitization in healthcare, by Nova School of Science &amp;amp; Technology, and promoted by my employer.&lt;/p&gt;</description>
     </item>
     <item>

@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</loc>
-    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
+    <loc>http://localhost:1313/posts/becoming-a-beginner-again/</loc>
+    <lastmod>2026-07-19T17:35:15+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-19T17:35:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-19T17:35:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/from-resistance-to-full-adoption-my-linux-journey-so-far/</loc>
     <lastmod>2026-07-07T14:06:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
     <lastmod>2026-07-07T14:06:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2026-07-07T14:06:09+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-07-07T14:06:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
