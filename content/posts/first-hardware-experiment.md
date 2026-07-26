@@ -39,6 +39,6 @@ Besides putting theoretical knowledge into practice, here are some of the things
 - Hands-on learning is both fun and effective;
 - It's always good to have a backup plan if things don't work out as expected.
 
-Since this hardware adventure, I've upgraded my laptop's 250GB M2 SDD to a 1TB M2 SSD and converted the former into an external drive with a nice metal case. Following that, I reinstalled Windows 11 and Ubuntu in dual boot, as that's my usual setup.
+Since this hardware adventure, I've upgraded my laptop's 250GB M2 SSD to a 1TB M2 SSD and converted the former into an external drive with a nice metal case. Following that, I reinstalled Windows 11 and Ubuntu in dual boot, as that's my usual setup.
 
 Overcoming this challenge gave me confidence to attempt fixing or replacing my computers' components if needed, and increased my overall interest and curiosity around information technology.
