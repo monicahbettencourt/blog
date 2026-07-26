@@ -32,13 +32,13 @@ As I pressed the power button, I wasn't sure the computer would start. But it di
 
 This was a surprisingly successful experience. The only negative outcome was scratching my desk with the PC's case, which I've repaired with a matching marker.
 
-Besides putting theoretical knowledge into practice, here are some of the things I leaned from this experience:
+Besides putting theoretical knowledge into practice, here are some of the things I learned from this experience:
 
 - It's important to prepare your working area and assemble the right tools for the task;
 - Confidence increases with experimentation: not being afraid to fail allows you to learn faster;
 - Hands-on learning is both fun and effective;
 - It's always good to have a backup plan if things don't work out as expected.
 
-Since this hardware adventure, I've upgraded my laptop's 250GB M2 SDD to a 1TB M2 SDD and converted the former into an external drive with a nice metal case. Following that, I reinstalled Windows 11 and Ubuntu in dual boot, as that's my usual setup.
+Since this hardware adventure, I've upgraded my laptop's 250GB M2 SDD to a 1TB M2 SSD and converted the former into an external drive with a nice metal case. Following that, I reinstalled Windows 11 and Ubuntu in dual boot, as that's my usual setup.
 
 Overcoming this challenge gave me confidence to attempt fixing or replacing my computers' components if needed, and increased my overall interest and curiosity around information technology.
