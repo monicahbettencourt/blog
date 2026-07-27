@@ -1,0 +1,8 @@
+# Vim swap files
+*.swp 
+
+# Hugo build directory 
+/public/
+
+# Hugo build lock file
+/.hugo_build.lock
