@@ -6,3 +6,6 @@
 
 # Hugo build lock file
 /.hugo_build.lock
+
+# Hugo processed image cache
+/resources/_gen/
