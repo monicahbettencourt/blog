@@ -2,6 +2,7 @@
 date: '2026-07-30T22:54:44+01:00'
 draft: false 
 title: 'What Is Linux and Why Learn It Now'
+tags: ["Linux", "learning"]
 ---
 My first impression when I heard about Linux was of another mainstream operating system (OS). One version for all users, no questions asked. And also, no freedom to choose differently, nor leeway for extended customization.
 
