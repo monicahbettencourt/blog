@@ -22,3 +22,21 @@ Personal technical blog where I document the learning process for my career pivo
 	- Commit changes to local repository: ```git commit -m "[commit message]"```
 	- Push to remote GitHub repository: ```git push```
 	- Cloudflare auto-deploys from main branch
+
+## Project Standards
+
+This project follows the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for all commits made after August 10, 2026.
+
+**Commit Format:** 
+
+```<type>(<scope>): <subject>```
+
+**Commit Types:**
+
+- `feat`: New feature (e.g., new blog posts)
+- `fix`: Bug fixes and typos
+- `docs`: Documentation updates
+- `refactor`: Restructuring code or content
+- `chore`: Configuration changes
+
+**Note:** Earlier commits used informal messages as this standard was adopted recently.
