@@ -14,7 +14,7 @@ I’m currently focused on Linux system administration, to then progress towards
 I also write about productivity and efficiency: note-taking, learning strategies, and deep work practices that support dedicated learning.
 
 
-# Socials
+## Socials
 
 💻 [LinkedIn](https://www.linkedin.com/in/monicahbettencourt)
 
@@ -23,4 +23,4 @@ I also write about productivity and efficiency: note-taking, learning strategies
 💾 [GitHub](https://github.com/monicahbettencourt)
 
 
-# Most Recent Posts
+## Most Recent Posts
