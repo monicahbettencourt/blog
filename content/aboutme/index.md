@@ -9,7 +9,7 @@ Then a Raspberry Pi entered the scene. I found that these small devices were tra
 
 This piqued my interest, and I became deeply curious about software integration and APIs as a solution to many healthcare IT systems that don’t communicate with each other.
 
-As I researched and attended several courses, I learned about the software development life cycle, including deployment and automation. In that moment I realized that I’d found what I was looking for.
+While searching and attending several courses, I learned about the software development life cycle, including deployment and automation. In that moment I realized that I’d found what I was looking for.
 
 As I thrive on solving problems and streamlining processes, I knew this was the right field to invest in. I learn by experimenting and building in my home lab, troubleshooting issues, breaking things, to then rebuild them in a better way.
 
