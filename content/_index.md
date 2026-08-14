@@ -23,4 +23,4 @@ I also write about productivity and efficiency: note-taking, learning strategies
 💾 [GitHub](https://github.com/monicahbettencourt)
 
 
-## Most Recent Posts
+## Recent Posts
