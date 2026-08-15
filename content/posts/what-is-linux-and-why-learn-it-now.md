@@ -42,7 +42,7 @@ My current Linux learning environment fits in the palm of my hand. It's a Raspbe
 
 ## Using a Linux Phone as Another Learning Tool
 
-Last November, I attended a workshop focused on the development of apps and ports for Ubuntu Touch¹, where I had the chance to meet a Portuguese developer and porter.
+Last November, I attended a workshop focused on the development of apps and ports for Ubuntu Touch[^1], where I had the chance to meet a Portuguese developer and porter.
 
 A month after that, I successfully installed Ubuntu Touch on a supported device I'd acquired for that purpose. The process required performing a few crucial steps carefully to avoid bricking the phone, and I was glad to succeed on the first attempt.
 
@@ -60,7 +60,5 @@ Learning Linux fundamentals provides us with the chance to understand how the op
 
 Becoming fluent in this foundational tool to provisioning the infrastructure for software deployment is the logical first step to build upon, one level at a time.
 
----
-
-¹ Ubuntu Touch is a mobile version of the Ubuntu operating system, developed by the UBports community, and designed mainly for smartphones and tablets.
+[^1]: Ubuntu Touch is a mobile version of the Ubuntu operating system, developed by the UBports community, and designed mainly for smartphones and tablets.
 
