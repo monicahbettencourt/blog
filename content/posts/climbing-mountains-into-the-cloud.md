@@ -33,4 +33,4 @@ And at each mountaintop you'll conquer, the sense of achievement will be exhilar
 
 As for me, I won't be doing this all alone. I've searched for others willing to learn new and hard things. I've found beginners, just like myself, and experienced climbers that want to share the knowledge they've gathered on their own path.
 
-So here begins my quest: **Climbing Mountains Into The Cloud**.
+So here begins my quest: **Climbing Mountains Into The Clouds**.
