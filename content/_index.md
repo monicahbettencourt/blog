@@ -16,7 +16,7 @@ I also write about productivity and efficiency: note-taking, learning strategies
 
 💻 [LinkedIn](https://www.linkedin.com/in/monicahbettencourt)
 
-🇽 [X](https://x.com/m_hbettencourt)
+✖️  [X](https://x.com/m_hbettencourt)
 
 💾 [GitHub](https://github.com/monicahbettencourt)
 
