@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Climbing Mountains Into The Clouds
+# Climbing Mountains Into the Clouds
 
 Welcome to my website. I’m Monica, an Operating Room Nurse based in the Lisbon District, pivoting into DevOps.
 
