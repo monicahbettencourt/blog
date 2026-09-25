@@ -3,14 +3,11 @@ title: Home
 ---
 # Climbing Mountains Into the Clouds
 
-Welcome to my website. I’m Monica, an Operating Room Nurse based in the Lisbon District, pivoting into DevOps.
+Welcome! I'm Monica, an Operating Room Nurse applying the discipline of high-stakes OR work to technical study towards DevOps.
 
-Here I share notes and articles to document my learning process and the technical subjects I'm studying, through hands-on experimentation.
+I explain computing the way I learned the human body: anatomy first, then physiology. Take the machine apart, understand every layer while learning how it runs.
 
-I’m currently focused on Linux system administration, to then progress towards automation, containers and orchestration, CI/CD pipelines, infrastructure as code, and cloud platforms.
-
-I also write about productivity and efficiency: note-taking, learning strategies, and deep work practices that support dedicated learning.
-
+Here I share notes and articles documenting the learning process, through hands-on experimentation, and the productivity and deep work practices that support it.
 
 ## Connect
 
