@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Monica H. Bettencourt
-  description: "Writing about what I'm learning in this journey into DevOps: Linux, Scripting, Containers, Container Orchestration, Cloud Platforms"
+  description: "Writing about what I'm learning in my journey from OR Nurse to DevOps"
   keywords: [Blog, Portfolio, CV, DevOps, Linux]
   author: Monica H. Bettencourt
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -48,8 +48,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: "My Learning Journey"
-    subtitle: "A place to share what I'm learning"
+    title: "Climbing Mountains Into the Clouds"
+    subtitle: "A place to share what I'm learning in my journey from OR Nurse to DevOps"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -61,18 +61,18 @@ params:
         url: tags
 
   # home-info mode
-  # homeInfoParams:
-  #   Title: "My Learning Journey"
-  #   Content: >
-  #     Welcome to my website. I'm Monica, an OR Nurse and DevOps Entusiast based in the Lisbon District.
+  homeInfoParams:
+    Title: "Climbing Mountains Into the Clouds"
+    Content: > 
+      Welcome! I'm Monica, an Operating Room Nurse applying the discipline of high-stakes OR work to technical study towards DevOps. I explain computing the way I learned the human body: anatomy first, then physiology. Take the machine apart, understand every layer while learning how it runs. Here I share notes and articles documenting the learning process, through hands-on experimentation.
       
-  # socialIcons:
-  #  - name: linkedin
-  #    url: "https://www.linkedin.com/in/monicahbettencourt"
-  #  - name: x
-  #    url: "https://x.com/m_hbettencourt"
-  #  - name: github
-  #    url: "https://github.com/monicahbettencourt"
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/monicahbettencourt"
+    - name: x
+      url: "https://x.com/m_hbettencourt"
+    - name: github
+      url: "https://github.com/monicahbettencourt"
 
   # analytics:
     # google:
