@@ -1,23 +1,24 @@
 ---
 title: Welcome!
 ---
-My name is Monica Horta Bettencourt, an Operating Room Nurse based in the Lisbon District, now applying the discipline of high-stakes OR work to my pivot into DevOps through full-time technical study.
 
-I’ve been surrounded by technology since childhood, thanks to my relatives’ interests and occupations. While working in healthcare, I followed the development of information technology systems in the field, and began noticing the challenges in usability and interoperability between different software products.
+I'm Monica, an Operating Room Nurse in the Lisbon District, now applying the discipline of high-stakes OR work to technical study towards DevOps.
 
-Then a Raspberry Pi entered the scene. I found that these small devices were transmitting live data from medical equipment to a newly implemented application in the OR.
+I started using computers at a young age, and in healthcare I noticed the increasing addition of systems that worked detached from each other.
 
-This piqued my interest, and I became deeply curious about software integration and APIs as a solution to many healthcare IT systems that don’t communicate with each other.
+Then a Raspberry Pi entered the scene. I found these small devices transmitting live data from medical equipment to a newly implemented application in the OR.
 
-While searching and attending several courses, I learned about the software development life cycle, including deployment and automation. In that moment I realized that I’d found what I was looking for.
+This set off my search to understand how software integration and APIs could solve the issues I kept seeing: healthcare IT systems that don’t communicate with each other. In a hospital, that seamless communication is essential for patient safety and team efficiency.
 
-As I thrive on solving problems and streamlining processes, I knew this was the right field to invest in. I learn by experimenting and building in my home lab, troubleshooting issues, breaking things, to then rebuild them in a better way.
+That led me to the software development life cycle, including deployment and automation. Then I realized I’d found what I was looking for.
 
-After a few hardware experiments and my own laptop repair, I’m currently focused on Linux system administration, building a solid foundation for the technical skills required of a DevOps professional, to then progress towards automation, containers and orchestration, CI/CD pipelines, infrastructure as code, and cloud platforms.
+I learn by experimenting and building in my home lab, troubleshooting issues, breaking things, to then rebuild them in a better way.
+
+After a few hardware experiments and my own laptop repair, I'm building the foundations now: Linux system administration and Bash scripting.
 
 Here I share what I’m learning and the processes involved. I also write about productivity and efficiency: note-taking, learning strategies, and deep work practices that support dedicated learning.
 
-I developed consistent study habits while still working a rotating shift schedule. It took some trial and error, but I eventually realized what worked during my [3-month experiment waking at 04:30h to study before morning shifts in the OR](https://monicahbettencourt.com/posts/so-much-to-learn-and-so-little-time/).
+While still working a rotating shift schedule, I studied 103 hours in a single month against an 84-hour estimate. [Getting up at 04:30h to study before morning shifts in the OR](https://monicahbettencourt.com/posts/so-much-to-learn-and-so-little-time/) is what built the habit, even on my days off. That experiment is the reason I can study full-time now.
 
 ## About This Website
 
